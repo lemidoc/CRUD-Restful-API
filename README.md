@@ -1,4 +1,4 @@
-**Basic CRUD RESTful API**
+# Basic CRUD RESTful API
 
 This project provides a simple CRUD (Create, Read, Update, Delete) API for managing resources. 
 
